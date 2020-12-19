@@ -1,15 +1,17 @@
 ---
-title: "Επισκόπηση"
-linkTitle: "Overview"
+title: "R"
+linkTitle: "R"
 weight: 1
 description: >
-  Δείτε συνοπτικά τι μπορείτε να κάνετε σε αυτό το site.
+  Η γλώσσα προγραμματισμού R.
 ---
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
-
-Try answering these questions for your user in this page:
+> _I can win an argument on any topic, against any opponent.
+>  People know this, and steer clear of me at parties. Often,
+>  as a sign of their great respect, they don't even invite me._
+>
+> `r quote_footer('--- Dave Barry')`
 
 ## What is it?
 
