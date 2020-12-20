@@ -6,7 +6,7 @@ description: >
   Η γλώσσα προγραμματισμού R.
 ---
 
-![](/gr/docs/r/space1.png)
+
 
 ## Τι είναι η R;
 
