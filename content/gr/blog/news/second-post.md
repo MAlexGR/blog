@@ -192,6 +192,8 @@ Small images should be shown at their actual size.
 
 ![](https://placekitten.com/g/300/200/)
 
+![](space1.png)
+
 Large images should always scale down and fit in the content container.
 
 ![](https://placekitten.com/g/1200/800/)
