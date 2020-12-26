@@ -1,25 +1,32 @@
 ---
-date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+title: "Docker; Τι είναι και τι κάνει!"
+author: Alex M
+date: '2020-12-23'
+linkTitle: "Docker για Αρχάριους"
+description: >
+  Πως μπορούμε να δημιουργήσουμε και να διανέμουμε εύκολα τις εφαρμογές μας στο cloud, με το Docker
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+  src: '**.{png,jpg,svg}'
+  title: 'Εικόνα #:counter'
   params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+    byline: 'Το επίσημο logo του docker'
+images:
+- docker-logo.png
 ---
+
+![](docker.svg)
 
 **This is a typical blog post that includes images.**
 
 The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
 
+
+
 ## Including images
 
 Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
 
-{{< imgproc sunset Fill "600x300" >}}
+{{< imgproc space1 Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 
