@@ -4,6 +4,18 @@ linkTitle: "R"
 weight: 20
 description: >
   Η γλώσσα προγραμματισμού R.
+  
+cards:
+- name: concepts
+  title: "Understand the basics"
+  description: "Learn about Kubernetes and its fundamental concepts."
+  button: "Learn Concepts"
+  button_path: "/docs/concepts"
+- name: tutorials
+  title: "Try Kubernetes"
+  description: "Follow tutorials to learn how to deploy applications in Kubernetes."
+  button: "View Tutorials"
+  button_path: "/docs/tutorials"
 ---
 
 {{% pageinfo %}}
