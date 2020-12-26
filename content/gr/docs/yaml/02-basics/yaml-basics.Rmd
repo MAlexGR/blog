@@ -1,0 +1,18 @@
+---
+weight: 2
+
+title: "Βασικές Έννοιες"
+linkTitle: "Βασικές Έννοιες"
+author: "Alex"
+date: "12/25/2020"
+description: >
+  Βασικές έννοιες και παρατηρήσεις σχετικές με τη YAML.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+dfjkf
